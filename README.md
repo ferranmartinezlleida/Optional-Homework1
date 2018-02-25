@@ -5,7 +5,7 @@ This scripts needs at least two parameters besides its name. The first one shoul
 
 To be able to use the script properly, not having a gmail adress, this dummy one is provided to be used in tests.
 
-user: dummydumber@gmail.com
+user: dummydumber9@gmail.com
 
 password: 12345678G
 
