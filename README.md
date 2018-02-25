@@ -15,5 +15,3 @@ Parameter Ex:
 ./freebooks dummydumber9@gmail.com 12345678G <- The email will be sent to dummydumber9@gmail.com
 
 ./freebooks dummydumber9@gmail.com 12345678G exampleadress@mail.com <- The email will be sent to exampleadress@mail.com
-
-Python Interpreter is python2.7, The script has been developed with PyCharm Pro inside a virtual environment. The directory freeboks is this Pycharm project.
